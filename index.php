@@ -34,6 +34,7 @@
       }
     }
   }
+
 // end of user sessions creation
  ?>
 <!DOCTYPE html>
